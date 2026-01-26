@@ -1,1 +1,10 @@
-Versi 1.0
+Versi 1.1 @ 26 Januari 2026
+1. menu Calon PM: Menambahkan kolom Tanggal Masuk Perawatan dan Tanggal Mulai ART
+2a. menu PM: Menambahkan Pertanyaan Skrining 8 (Sedang menjadi PM Komunitas)
+2b. menu PM: Perbaikan beberapa Bugs yang muncul di versi 1.0
+2c. menu PM: Menempatkan proteksi Tambah PM jika PM sudah diinput
+3a. menu Kunjungan SNS: Men-nonaktifkan tombol import
+3b. menu Kunjungan SNS: merubah ke isian manual dengan mengisi no rekam medis dan nomor kupon langsung ke tabel
+4. menu Submit Laporan: Perbaikan Bugs
+
+Versi 1.0 @ 1 Januari 2026
