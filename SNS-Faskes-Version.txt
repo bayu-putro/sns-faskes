@@ -1,6 +1,7 @@
 Versi 1.2 @ 9 Februari 2026
 1. Menu Kupon: Perbaikan bugs saat menyimpan kupon
-2. Menu Kunjungan SNS: Perbaikan bugs saat refresh rumus 
+2. Menu Kunjungan SNS: Perbaikan bugs saat refresh rumus
+3. Tab Konfigurasi: Menghilangkan Menu Kriteria Khusus Calon PM
 
 
 Versi 1.1 @ 26 Januari 2026
