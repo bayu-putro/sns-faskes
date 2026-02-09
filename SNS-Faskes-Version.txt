@@ -1,3 +1,8 @@
+Versi 1.2 @ 9 Februari 2026
+1. Menu Kupon: Perbaikan bugs saat menyimpan kupon
+2. Menu Kunjungan SNS: Perbaikan bugs saat refresh rumus 
+
+
 Versi 1.1 @ 26 Januari 2026
 1. menu Calon PM: Menambahkan kolom Tanggal Masuk Perawatan dan Tanggal Mulai ART
 2a. menu PM: Menambahkan Pertanyaan Skrining 8 (Sedang menjadi PM Komunitas)
@@ -6,5 +11,6 @@ Versi 1.1 @ 26 Januari 2026
 3a. menu Kunjungan SNS: Men-nonaktifkan tombol import
 3b. menu Kunjungan SNS: merubah ke isian manual dengan mengisi no rekam medis dan nomor kupon langsung ke tabel
 4. menu Submit Laporan: Perbaikan Bugs
+
 
 Versi 1.0 @ 1 Januari 2026
