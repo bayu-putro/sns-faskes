@@ -1,6 +1,7 @@
 Versi 1.3 unpublish
 1. Tab Tentang Aplikasi: Penambahan Tombol Repair Formula (untuk memastikan semua formula aplikasi berjalan dengan baik)
 2. Umum: Perbaikan bug alur database menyesuaikan alur pelaporan ke database googlesheet
+3. Menu PM: Perubahan redaksi pada skrining no 7 terkait keamanan/kenyamanan calon PM
 
 
 Versi 1.2 @ 9 Februari 2026
