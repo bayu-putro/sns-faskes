@@ -1,3 +1,7 @@
+Versi 1.4 @ 16 April 2026
+1. Menu Submit Laporan: Perbaikan bug error data tanggal di database online (googlesheet) saat submit laporan
+
+
 Versi 1.3 @ 19 Februari 2026
 1. Tab Tentang Aplikasi: Penambahan Tombol Repair Formula (untuk memastikan semua formula aplikasi berjalan dengan baik)
 2. Umum: Perbaikan bug alur database menyesuaikan alur pelaporan ke database googlesheet
