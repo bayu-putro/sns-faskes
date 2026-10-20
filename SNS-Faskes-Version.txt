@@ -1,3 +1,6 @@
+Versi 1.5 @ 20 Oktober 2026
+1. Menu Submit Laporan: Penambahan data yang di submit (Data capaian tes negatif pada popkun)
+
 Versi 1.4 @ 16 April 2026
 1. Menu Submit Laporan: Perbaikan bug error data tanggal di database online (googlesheet) saat submit laporan
 
