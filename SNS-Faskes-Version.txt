@@ -1,3 +1,6 @@
+Versi 1.6 @ 18 November 2026
+1. Menu Submit Laporan: Repair bug data agregat tes HIV
+
 Versi 1.5 @ 20 Oktober 2026
 1. Menu Submit Laporan: Penambahan data yang di submit (Data capaian tes negatif pada popkun)
 
